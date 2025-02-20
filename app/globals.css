@@ -7,7 +7,7 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
+  ß :root {
     --foreground: #ededed;
   }
 }
