@@ -23,7 +23,7 @@ const UploadPage = () => {
             palette: {
               window: "#5D005D",
               sourceBg: "#3A0A3A",
-              windowBorder: "#AD5BA3",
+              windoßwBorder: "#AD5BA3",
               tabIcon: "#ffffcc",
               inactiveTabIcon: "#FFD1D1",
               menuIcons: "#FFD1D1",
