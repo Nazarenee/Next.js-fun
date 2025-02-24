@@ -30,6 +30,9 @@ const NavBar = () => {
       <Link href="/users" className="mr-5">
         Users
       </Link>
+      <Link href="/upload" className="mr-5">
+        Upload Image
+      </Link>
       <Link href="/api/users" className="mr-5">
         Api Users
       </Link>
