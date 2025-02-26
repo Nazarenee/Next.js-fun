@@ -1,6 +1,5 @@
-// app/layout.tsx
 "use client";
-
+// app/layout.tsx
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import NavBar from "./NavBar";
